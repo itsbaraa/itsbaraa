@@ -1,4 +1,4 @@
-<h2> Hello! 👋 </h2>
+<h3> Hello! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="28"> </h3>
 I'm Baraa Aljouri, Data Science & AI Student
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -19,11 +19,9 @@ I'm Baraa Aljouri, Data Science & AI Student
 
 <h3> 🤝🏻 Connect With Me </h3>
 <p>
-&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/baraaaljouri"><img src="https://img.icons8.com/?size=48&id=13930&format=png"></a>
-&nbsp; <a href="mailto:BaraaAljouri@gmail.com"><img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"></a>
+&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/baraaaljouri"><img src="https://img.icons8.com/?size=48&id=13930&format=png" width="40"></a>
+&nbsp; <a href="mailto:BaraaAljouri@gmail.com"><img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png" width="40"></a>
 </p>
-
-![](https://hit.yhype.me/github/profile?account_id=39034192)
 
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbaraa&layout=compact&text_color=daf7dc&bg_color=151515) -->
 <!--![Baraa GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbaraa&theme=github_dark&show_icons=true) -->
