@@ -1,4 +1,4 @@
-<h3> Hello! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="28"> </h3>
+<h2> Hello! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="32"> </h2>
 I'm Baraa Aljouri, Data Science & AI Student
 
 <h3> 👨🏻‍💻 About Me </h3>
