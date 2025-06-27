@@ -23,5 +23,5 @@ I'm Baraa Aljouri, Data Science & AI Student
 &nbsp; <a href="mailto:BaraaAljouri@gmail.com"><img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png" width="40"></a>
 </p>
 
-<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbaraa&layout=compact&text_color=daf7dc&bg_color=151515) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbaraa) -->
 <!--![Baraa GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbaraa&theme=github_dark&show_icons=true) -->
