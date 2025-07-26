@@ -11,7 +11,7 @@
 - 🔎 Exploring new technologies and improving my technical skills.
 - 🎓 Studying Data Science and Artificial Intelligence at Saudi Electronic University.
 - 🌱 Enthusiast in DevOps and Selfhosting.
-- 😄 My website: https://baraa.top
+- 😄 My portfolio: https://baraa.top
 
 <h3> 🛠 Tech Stack </h3>
 
