@@ -1,4 +1,8 @@
-<h2> Hello! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="32"> </h2>
+<!-- <h2> Hello! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="32"> </h2>
+<!-- header from https://github.com/kyechan99/capsule-render -->
+  
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Greetings!&fontSize=70&theme=tokyonight)
+  
 I'm Baraa Aljouri, Data Science & AI Graduate
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -7,7 +11,7 @@ I'm Baraa Aljouri, Data Science & AI Graduate
 - 🔎 Exploring new technologies and improving my technical skills.
 - 🎓 Studying Data Science and Artificial Intelligence at Saudi Electronic University.
 - 🌱 Enthusiast in DevOps and Selfhosting.
-<!-- - 😄 My website: https://baraa.top -->
+- 😄 My website: https://baraa.top
 
 <h3> 🛠 Tech Stack </h3>
 
@@ -23,5 +27,6 @@ I'm Baraa Aljouri, Data Science & AI Graduate
 &nbsp; <a href="mailto:BaraaAljouri@gmail.com"><img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png" width="40"></a>
 </p>
 
+<!-- stats cards from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbaraa) -->
 <!--![Baraa GitHub stats](https://github-readme-stats.vercel.app/api?username=itsbaraa&theme=github_dark&show_icons=true) -->
