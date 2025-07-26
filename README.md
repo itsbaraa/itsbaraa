@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Greetings!&fontSize=70&theme=tokyonight)
   
-I'm Baraa Aljouri, Data Science & AI Graduate
+<!-- I'm Baraa Aljouri, Data Science & AI Graduate -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
