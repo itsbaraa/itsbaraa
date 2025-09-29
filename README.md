@@ -18,7 +18,7 @@
 - 💻 Python | Java
 - 🌐 HTML | CSS | JavaScript 
 - 🛢 MySQL | SQLite
-- 🔧 VS Code | NeoVim | Git | Docker
+- 🔧 VS Code | NeoVim | Git | Docker | CI/CD
 - 📚 NumPy | Pandas | Matplotlib | MediaPipe | OpenCV
 
 <h3> 🤝🏻 Connect With Me </h3>
