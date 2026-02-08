@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning Full Stack Robotics Engineering at <a href="https://s-m.com.sa/"> Smart Methods </a>
+- 🔭 Currently a Full Stack Robotics Engineering at <a href="https://s-m.com.sa/"> Smart Methods </a>
 - 🔎 Exploring new technologies and improving my technical skills.
 - 🎓 Studying Data Science and Artificial Intelligence at Saudi Electronic University.
 - 🌱 Enthusiast in DevOps and Selfhosting.
