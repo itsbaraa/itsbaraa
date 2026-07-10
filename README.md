@@ -7,7 +7,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 Currently a Full Stack Robotics Engineer at <a href="https://s-m.com.sa/"> Smart Methods </a>
 - 🔎 Exploring new technologies and improving my technical skills.
 - 🎓 Bachelor Degree in Data Science and Artificial Intelligence
 - 🌱 Enthusiast in DevOps and Selfhosting.
