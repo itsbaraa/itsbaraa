@@ -9,14 +9,14 @@
 
 - 🔎 Exploring new technologies and improving my technical skills.
 - 🎓 Bachelor Degree in Data Science and Artificial Intelligence
-- 🌱 Enthusiast in DevOps and Selfhosting.
+- 🌱 Enthusiast in Training New Models and DevOps and Selfhosting.
 - 😄 My portfolio: https://baraa.top
 
 <h3> 🛠 Tech Stack </h3>
 
 - 💻 Python | Java
-- 🌐 HTML | CSS | JavaScript 
-- 🛢 MySQL | SQLite
+- 🌐 HTML | CSS | JavaScript
+- 🛢 PostgreSQL | MySQL | SQLite
 - 🔧 VS Code | NeoVim | Git | Docker | CI/CD
 - 📚 NumPy | Pandas | Matplotlib | MediaPipe | OpenCV
 
